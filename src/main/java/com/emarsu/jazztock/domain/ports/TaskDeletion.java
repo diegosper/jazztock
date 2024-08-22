@@ -1,6 +1,6 @@
 package com.emarsu.jazztock.domain.ports;
 
-public interface DeleteTaskUseCase {
+public interface TaskDeletion {
 
     boolean deleteTask (Long id);
 }

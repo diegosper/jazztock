@@ -4,6 +4,6 @@ import com.emarsu.jazztock.domain.models.AdditionalTaskInfo;
 
 public interface GettingAdditionalTaskInfo {
 
-    AdditionalTaskInfo geAdditionalTaskInfo(Long id);
+    AdditionalTaskInfo getAdditionalTaskInfo(Long id);
 
 }
